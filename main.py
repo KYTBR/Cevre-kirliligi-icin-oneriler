@@ -33,4 +33,4 @@ async def on_message(message):
         await message.channel.send(f"İşte bir plastik el işi fikri: {fikir}")
 
 # Botu çalıştıralım
-client.run("MTE5Njg1NTMxMzkwMzY2MTE0Nw.GIZfsu.yjV1S_7zWsryEML3XNPs2W4cOn-4EHPBSm6SqU")
+client.run("Your Bot Token")
